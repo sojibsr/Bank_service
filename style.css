@@ -1,0 +1,50 @@
+.login-area{
+	margin: 100px;
+	box-shadow: 5px 5px 10px lightgray;
+	border-radius: 20px;
+	padding: 40px;
+}
+
+.submit-area{
+	box-shadow: 5px 5px 10px lightgray;
+	border-radius: 20px;
+	padding: 40px;
+}
+
+.deposit{
+	padding: 40px;
+	box-shadow: 5px 5px 10px lightgray;
+	border-radius: 20px;
+	background-color: slateblue;
+	margin: 40px;
+}
+.withdraw{
+	padding: 40px;
+	box-shadow: 5px 5px 10px lightgray;
+	border-radius: 20px;
+	background-color: lightsalmon;
+	margin: 40px;
+}
+.balance{
+	padding: 40px;
+	box-shadow: 5px 5px 10px lightgray;
+	border-radius: 20px;
+	background-color: #EF820D;
+	margin: 40px;
+}
+
+.deposit-area{
+	padding: 40px;
+	box-shadow: 5px 5px 10px lightgray;
+	border-radius: 10px;
+	margin: 20px;
+}
+.withdraw-area{
+	padding: 40px;
+	box-shadow: 5px 5px 10px lightgray;
+	border-radius: 10px;
+	margin: 20px;
+}
+.calculation-area{
+	display: none;
+}
